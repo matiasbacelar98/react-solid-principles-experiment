@@ -3,6 +3,7 @@ import { Flex, Heading, Text } from '@radix-ui/themes';
 
 /*                           SRP
   Every (function/class/component) should do exactly one thing.
+  
   (Zealously following any principle does more harm than good)
 */
 
